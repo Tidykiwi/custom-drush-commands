@@ -213,7 +213,7 @@ class DrushCommandTest extends DrushCommands {
    * @command drush_test:importCSVcreateMP
    * @aliases d-importCSVcreateMP
    * @usage drust_test:importCSVcreateMP /filepath/example.csv
-   *    Creates fast_food_chain content type nodes using data from example.csv
+   *    Creates master_product content type nodes using data from example.csv
    */
   function importCSVcreateMP($filename) {
   
